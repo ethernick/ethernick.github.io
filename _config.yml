@@ -21,17 +21,17 @@ author:
 
 # Custom vars
 navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Archive
-   url: /archive.html
+ - title:            Home
+   url:              /index.html
+ - title:            About
+   url:              /about
+ - title:            Archive
+   url:              /archive.html
 
 social:
-   github: ethernick
-   twitter: eternick
-   facebook: nick.kempinski
-   email: nick@whoisnick.com
+   github:           ethernick
+   twitter:          ethernick
+   facebook:         nick.kempinski
+   email:            nick@whoisnick.com
 
-google_analytics: ""
+google_analytics:    "UA-130582-1"
