@@ -1,0 +1,74 @@
+---
+layout: post
+title: Brand you! Not Twitter. Not Facebook.
+date: 2010-09-17 07:00:00.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- Media Man
+tags:
+- radio
+- think
+meta:
+  _wpas_done_all: '1'
+  tumblr_ethernick_permalink: http://ethernick.tumblr.com/post/20534563311/brand-you-not-twitter-not-facebook
+  tumblr_ethernick_id: '20534563311'
+  _edit_last: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1460602224;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:686;}i:1;a:1:{s:2:"id";i:682;}i:2;a:1:{s:2:"id";i:650;}}}}
+author:
+  login: ethernick
+  email: nick@whoisnick.com
+  display_name: ethernick
+  first_name: ''
+  last_name: ''
+---
+<p>I’ve been listening to <a href="http://thezone.fm">TheZone.fm</a> and I heard something interesting “<a href="http://thezone.fm/twitter">TheZone.fm/twitter</a>” and “<a href="http://thezone.fm/facebook">TheZone.fm/facebook</a>”</p>
+<p><b>Wow!</b></p>
+<p>This is a great way to put your stations brand first. As a bonus, if you didn’t snag the right twitter account name or facebook page name, your listeners don’t need to know.</p>
+<p><b>But now the nitty gritty: How do actually get it done?</b></p>
+<p>Consider this post a requirements document, or a detailed solution. Give it to the folks that manage your website, and they should be able to use at least one of these solutions</p>
+<p><b>The old HTML fake out</b></p>
+<p>Make two folders on your website called “twitter” and “facebook”. These should be in your home folder ( sometimes called html, sometimes called website, sometimes called yourstationrocks.com, it all depends on your host ).</p>
+<p>Open a text editor, anyone will do, and copy the following code:</p>
+<pre>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Your Station on Twitter&lt;/title&gt;
+&lt;meta http-equiv="REFRESH"
+    content="0;url=http://www.twitter.com/MyStationRulesTheAir"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+Get ready for some tweets!
+&lt;/body&gt;
+&lt;/html&gt;
+
+</pre>
+<p>Replace <a href="http://www.twitter.com/MyStationRulesTheAir">http://www.twitter.com/MyStationRulesTheAir</a> and “Get ready for some tweets!” as you like.</p>
+<p>Save it as html</p>
+<p>Next, place it into the twitter folder.</p>
+<p>Edit the file again with your facebook address and maybe a nice facebook message like “Face this book!” (nah)</p>
+<p>Save</p>
+<p>And place it in your facebook folder.</p>
+<p>Blam! Done!</p>
+<p><b>Let the host do it for you.</b></p>
+<p>Some hosting companies actually provide you with redirect options in you website administration. If this is the case, it all depends on what they use. Sometimes it’s a homegrown program, and other times, it’s something else.</p>
+<p>Sign in and hunt for any variation of these terms: forward or, redirect.</p>
+<p>It could be under file management, but I’ve also seen it under domain management as well.</p>
+<p>When in doubt - pick up the horn and ask if they can do it.</p>
+<p><b>.htaccess - I always see it but never use it</b></p>
+<p>If you see this file, then you can do some nifty things. You’re going to want to download it, edit it, and then put it back where you fond it.</p>
+<p>Depending on what you’ve got running, when you open it in a text editor, there may already be some stuff. If that’s the case push it all down a line and add the following lines of code</p>
+<pre>Redirect /twitter <a href="http://www.twitter.com/MyStationRulesTheAir">http://www.twitter.com/MyStationRulesTheAir</a>
+Redirect /facebook <a href="http://www.facebook.com/MyStationRulesTheAir">http://www.facebook.com/MyStationRulesTheAir</a>
+
+</pre>
+<p>Of course, replace it with your facebook and twitter locations.</p>
+<p>Save it.</p>
+<p>Dump it back onto your host.</p>
+<p><b>But I’ve got programmers</b></p>
+<p>In that case, pick up the phone, or walk over and say “Make it so #1”. They might giggle a little. They may also call you Picard or Jean-Luc. When they do, just tug twice on the bottom of your shirt and walk away. ( this of course will loose all meaning if your on the phone )</p>
+<p><b>And then…</b></p>
+<p>No and then. That’s all I’ve got. You can take my word, or <a href="http://en.wikipedia.org/wiki/URL_redirection">wikipedia</a>’s word if mine isn’t good enough.</p>
+<p>I hope to see more stations using this method because it puts your station above twitter &amp; facebook. Plus adding a quick “slash twitter” in the bit or sweep is a lot easier for the folks on the mic.</p>
+<p>If you come across any other solutions, I’d like to know. As always, the comment box is ready when you are.</p>

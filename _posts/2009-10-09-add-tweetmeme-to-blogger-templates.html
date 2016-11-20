@@ -1,0 +1,31 @@
+---
+layout: post
+title: Add Tweetmeme to Blogger templates
+date: 2009-10-09 21:33:56.000000000 -07:00
+type: post
+published: true
+status: publish
+categories:
+- Tech Talk
+tags:
+- code
+- share
+meta:
+  _wpas_done_all: '1'
+  tumblr_ethernick_permalink: http://ethernick.tumblr.com/post/208705266/add-tweetmeme-to-blogger-templates
+  tumblr_ethernick_id: '208705266'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1459013652;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:633;}i:1;a:1:{s:2:"id";i:690;}i:2;a:1:{s:2:"id";i:482;}}}}
+  _edit_last: '1'
+author:
+  login: ethernick
+  email: nick@whoisnick.com
+  display_name: ethernick
+  first_name: ''
+  last_name: ''
+---
+<p>I was trying to figure it out, and I found an answer.</p>
+<p>Click Expand Widget Templates and look for “&lt;div class=‘post-header-line-1’&gt;”</p>
+<p>After that it’s a matter of adding your <a href="http://help.tweetmeme.com/2009/04/06/tweetmeme-button/">tweetmeme</a> and <a href="http://www.fbshare.me/">fbshare.me</a> code, wherever you want it. The key is to set the url’s with &lt;data:post.url/&gt;.</p>
+<p>In this example I decided to float it, and switch the service to use <a href="http://bit.ly">bit.ly</a>, but you can do what you will. Here’s what I used.</p>
+<p><code> &lt;div style="float:left; margin: 10px;"&gt; &lt;script type="text/javascript"&gt;'; tweetmeme_source = 'usedeverywhere'; tweetmeme_service = 'bit.ly'; // --&gt;&lt;/script&gt; &lt;script src="http://tweetmeme.com/i/scripts/button.js" type="text/javascript"&gt;var fbShare = { url: '', google_analytics: 'true' } // --&gt;&lt;/script&gt; &lt;script src="http://widgets.fbshare.me/files/fbshare.js"&gt;&lt;/script&gt; &lt;/div&gt; </code></p>
+<p style="font-size: 10px;">

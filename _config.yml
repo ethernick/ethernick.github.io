@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:title
+relative_permalinks: true
+
+# Setup
+title:               'Who Is Nick?'
+tagline:             'Simple question. Complex Answer.'
+description:         "I've been asking myself this question for most my life. I still don't have an answer."
+url:                 http://ethernick.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Nick Kempinski
+  url:               https://twitter.com/ethernick
+  email:             nick@whoisnick.com
+
+# Custom vars
+version:             9.0.0
