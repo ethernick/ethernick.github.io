@@ -4,7 +4,7 @@
  <title>Who Is Nick?</title>
  <link href="http://ethernick.github.io/atom.xml" rel="self"/>
  <link href="http://ethernick.github.io/"/>
- <updated>2016-11-20T14:14:16-08:00</updated>
+ <updated>2016-11-20T14:33:07-08:00</updated>
  <id>http://ethernick.github.io</id>
  <author>
    <name>Nick Kempinski</name>
@@ -1583,7 +1583,8 @@
    <link href="http://ethernick.github.io/100-most-beautiful-songs"/>
    <updated>2014-01-21T00:34:05-08:00</updated>
    <id>http://ethernick.github.io/100-most-beautiful-songs</id>
-   <content type="html">&lt;p&gt;https://open.spotify.com/user/magnusheie/playlist/0CeGFtZJPbxsAboLH0ayyz&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:user:magnusheie:playlist:0CeGFtZJPbxsAboLH0ayyz&quot;
+  width=&quot;800&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;via &lt;a href=&quot;http://www.reddit.com/r/AskReddit/comments/16jtpa/what_is_the_most_beautiful_song_youve_ever_heard/&quot;&gt;reddit&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
@@ -1806,8 +1807,7 @@
    <link href="http://ethernick.github.io/unconscious-censorship"/>
    <updated>2013-09-06T22:42:23-07:00</updated>
    <id>http://ethernick.github.io/unconscious-censorship</id>
-   <content type="html">&lt;p&gt;[caption id=&quot;attachment_1325&quot; align=&quot;aligncenter&quot; width=&quot;640&quot;]&lt;img class=&quot;size-full wp-image-1325&quot; src=&quot;/assets/img/2015/09/1-1pWUR_xe7DX1TKyMaufcWQ-1.jpeg&quot; alt=&quot;Creative commons image courtesy of Isaac Mao&quot; width=&quot;640&quot; height=&quot;480&quot; /&gt; Creative commons image courtesy of &lt;a href=&quot;http://www.flickr.com/photos/isaacmao/9753846/&quot;&gt;Isaac Mao&lt;/a&gt;[/caption]&lt;/p&gt;
-&lt;p id=&quot;1b69&quot; class=&quot;graf--p&quot;&gt;I don’t get tongue tied. I get tongue tired. A case of the Silence. Today is one of those “nothing to say” days. Sometimes they are great for reflection, or great just to take a break. But sometimes it’s more unconscious censorship. This way, me and myself don’t have to fight over why I’m being quiet. Considering this project is supposed to help me uncover, rather than shutting up – I’m gonna take some time and power through. Come up with something – and chances are, it will be pretty close to the mark.&lt;/p&gt;
+   <content type="html">&lt;p id=&quot;1b69&quot; class=&quot;graf--p&quot;&gt;I don’t get tongue tied. I get tongue tired. A case of the Silence. Today is one of those “nothing to say” days. Sometimes they are great for reflection, or great just to take a break. But sometimes it’s more unconscious censorship. This way, me and myself don’t have to fight over why I’m being quiet. Considering this project is supposed to help me uncover, rather than shutting up – I’m gonna take some time and power through. Come up with something – and chances are, it will be pretty close to the mark.&lt;/p&gt;
 &lt;p id=&quot;9089&quot; class=&quot;graf--p&quot;&gt;Here are just a few reasons I think I might sensor myself and not know why:&lt;/p&gt;
 &lt;h3 id=&quot;dccb&quot; class=&quot;graf--h3&quot;&gt;Depression&lt;/h3&gt;
 &lt;p id=&quot;6598&quot; class=&quot;graf--p&quot;&gt;I get these bouts. And saying them out loud is helpful – I’ve heard. Although I still have a lot of trouble with the concept. Who wants to hear about sadness online? It’s like this social media leprosy. So when sad, my writing goes personal – offline; hidden.&lt;/p&gt;
@@ -1819,6 +1819,8 @@
 &lt;h3 id=&quot;ec18&quot; class=&quot;graf--h3&quot;&gt;Fear&lt;/h3&gt;
 &lt;p id=&quot;dc16&quot; class=&quot;graf--p&quot;&gt;What if what I say goes against the grain: The grain of my day job. The grain of my relationship, the gain of smarter people, the grain of life in general? Saying things in a room with some friends is one thing, saying them out loud in public could be a cause for a shit storm either professionally or personally.&lt;/p&gt;
 &lt;p id=&quot;b127&quot; class=&quot;graf--p graf--last&quot;&gt;&lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;Possible solutions:&lt;/strong&gt; Baby steps. This, right here, what I’ve written is a baby step. Attaching my face, my voice is another. Little by little.&lt;/p&gt;
+
+&lt;sup&gt;Creative commons featured image courtesy of &lt;a href=&quot;http://www.flickr.com/photos/isaacmao/9753846/&quot;&gt;Isaac Mao&lt;/a&gt;&lt;/sup&gt;
 </content>
  </entry>
  
@@ -1836,10 +1838,11 @@
    <link href="http://ethernick.github.io/ephemeral"/>
    <updated>2013-09-03T22:20:44-07:00</updated>
    <id>http://ethernick.github.io/ephemeral</id>
-   <content type="html">&lt;p&gt;[caption id=&quot;attachment_1301&quot; align=&quot;aligncenter&quot; width=&quot;640&quot;]&lt;img class=&quot;wp-image-1301 size-full&quot; src=&quot;/assets/img/2015/09/2992019619_37aa09b247_z.jpg&quot; alt=&quot;2992019619_37aa09b247_z&quot; width=&quot;640&quot; height=&quot;428&quot; /&gt; creative commons image courtesy of &lt;a href=&quot;http://www.flickr.com/photos/stuartpilbrow/2992019619/&quot;&gt;stuartpilbrow&lt;/a&gt;[/caption]&lt;/p&gt;
-&lt;p&gt;Things aren’t supposed to last forever. I know, I know… we ( the cultural we ) want them to. But no matter how hard we fight, it’s not supposed to.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Things aren’t supposed to last forever. I know, I know… we ( the cultural we ) want them to. But no matter how hard we fight, it’s not supposed to.&lt;/p&gt;
 &lt;p&gt;I’m liking this trend to &lt;a href=&quot;http://techcrunch.com/2013/09/02/with-twitterspirit-twitter-gets-its-own-snapchat-a-disappearing-tweet-hack-courtesy-of-an-ex-twitter-engineer/&quot;&gt;delete what you’ve made&lt;/a&gt;. The most recent,&lt;a href=&quot;http://twitterspirit.com/&quot;&gt;twitterspirit&lt;/a&gt;. It reminds me of life: conversations I can’t remember, forgetting where I put my keys, enjoying a moment because it’s fleeting.&lt;/p&gt;
 &lt;p&gt;And in the fleeting – we take time to share, the time to learn. We make an effort to engage our memory. We pass down stories and skills. We teach our children. We create an impression, and that impression is what should last.&lt;/p&gt;
+
+&lt;sub&gt;creative commons featured image courtesy of &lt;a href=&quot;http://www.flickr.com/photos/stuartpilbrow/2992019619/&quot;&gt;stuartpilbrow&lt;/a&gt;&lt;/sub&gt;
 </content>
  </entry>
  
@@ -1848,8 +1851,7 @@
    <link href="http://ethernick.github.io/rose-coloured-glasses"/>
    <updated>2013-09-02T22:18:09-07:00</updated>
    <id>http://ethernick.github.io/rose-coloured-glasses</id>
-   <content type="html">&lt;p&gt;&lt;img class=&quot;aligncenter wp-image-1298 size-full&quot; src=&quot;/assets/img/2015/09/Screen_Shot_2013_08_30_at_1_26_43_AM-e1441678735430.png&quot; alt=&quot;Screen_Shot_2013_08_30_at_1_26_43_AM&quot; width=&quot;850&quot; height=&quot;602&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;While I’m a big fan of &lt;a href=&quot;http://getprismatic.com/&quot;&gt;Prismatic&lt;/a&gt;, I feel there’s something missing.&lt;/p&gt;
+   <content type="html">&lt;p&gt;While I’m a big fan of &lt;a href=&quot;http://getprismatic.com/&quot;&gt;Prismatic&lt;/a&gt;, I feel there’s something missing.&lt;/p&gt;
 &lt;p&gt;It’s refining, and refining, and refining what I read and what I want to read, but lately it’s feeling very one sided – my techie geek/start-up side. It’s perfectly understandable why, and I’m not going to say it’s wrong. But…&lt;/p&gt;
 &lt;p&gt;I am more than that. I think we are all more.&lt;/p&gt;
 &lt;p&gt;As websites strive to refine our behaviours they don’t account for the anomalies in our lives. They will never be able to create an algorithm for our Guilty Pleasures where we step outside of dominant patterns, and of course look over our shoulders, “Is anyone watching?”&lt;/p&gt;
@@ -1879,9 +1881,7 @@
    <link href="http://ethernick.github.io/i-think-i-can"/>
    <updated>2013-08-30T22:15:03-07:00</updated>
    <id>http://ethernick.github.io/i-think-i-can</id>
-   <content type="html">&lt;h2 style=&quot;text-align: center;&quot;&gt;I think I can.&lt;/h2&gt;
-&lt;p&gt;&lt;img class=&quot;aligncenter wp-image-1295 size-large&quot; src=&quot;/assets/img/2015/09/1-Ujh6moY6PMcui1_3fnCywQ-1024x910.jpeg&quot; alt=&quot;1-Ujh6moY6PMcui1_3fnCywQ&quot; width=&quot;1024&quot; height=&quot;910&quot; /&gt;&lt;/p&gt;
-&lt;p id=&quot;7f2e&quot; class=&quot;graf--p&quot;&gt;Who knew the stories we read as kids, might actually be true? Whaa!?&lt;/p&gt;
+   <content type="html">&lt;p id=&quot;7f2e&quot; class=&quot;graf--p&quot;&gt;Who knew the stories we read as kids, might actually be true? Whaa!?&lt;/p&gt;
 &lt;p id=&quot;d42b&quot; class=&quot;graf--p&quot;&gt;It’s now a scientific fact that &lt;a class=&quot;markup--anchor markup--p-anchor&quot; href=&quot;http://www.businessinsider.com/your-thoughts-can-release-abilities-beyond-normal-limits-2013-8&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.businessinsider.com/your-thoughts-can-release-abilities-beyond-normal-limits-2013-8&quot;&gt;if you think you can do it, you’re more likely to be able to do it&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote id=&quot;f73e&quot; class=&quot;graf--blockquote graf--startsWithDoubleQuote graf--last&quot;&gt;&lt;p&gt;“Psychologists Ulrich Weger and Stephen Loughnan recently &lt;a class=&quot;markup--anchor markup--blockquote-anchor&quot; href=&quot;http://www.tandfonline.com/doi/abs/10.1080/17470218.2012.751117?journalCode=pqje20#.Ud-Z2o7BHfB&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.tandfonline.com/doi/abs/10.1080/17470218.2012.751117?journalCode=pqje20#.Ud-Z2o7BHfB&quot;&gt;asked&lt;/a&gt; two groups of people to answer questions. People in one group were told that before each question, the answer would be briefly flashed on their screens — too quickly to consciously perceive, but slow enough for their unconscious to take it in. The other group was told that the flashes simply signaled the next question. In fact, for both groups, a random string of letters, not the answers, was flashed. But, remarkably, the people who thought the answers were flashed did better on the test. Expecting to know the answers made people more likely to get the answers right.”&lt;/p&gt;&lt;/blockquote&gt;
 </content>
@@ -1949,8 +1949,7 @@
    <link href="http://ethernick.github.io/change-your-perspective"/>
    <updated>2013-08-23T22:38:43-07:00</updated>
    <id>http://ethernick.github.io/change-your-perspective</id>
-   <content type="html">&lt;p&gt;[caption id=&quot;attachment_1322&quot; align=&quot;aligncenter&quot; width=&quot;1024&quot;]&lt;img class=&quot;wp-image-1322 size-large&quot; src=&quot;/assets/img/2015/09/1-ce_dK4y4GpaP8u4mRf-Muw-1024x767.jpeg&quot; alt=&quot;Part of Art is Trash, from Francisco de Pájaro&quot; width=&quot;1024&quot; height=&quot;767&quot; /&gt; Part of Art is Trash, from &lt;a href=&quot;http://depajaro.blogspot.ca/&quot;&gt;Francisco de Pájaro&lt;/a&gt;[/caption]&lt;/p&gt;
-&lt;p id=&quot;2c7f&quot; class=&quot;graf--p&quot;&gt;It takes work but you can take a pile of shit and turn it into anything else. It’s a matter of perspective. I think there are a few key ways of looking at it to change your outlook.&lt;/p&gt;
+   <content type="html">&lt;p id=&quot;2c7f&quot; class=&quot;graf--p&quot;&gt;It takes work but you can take a pile of shit and turn it into anything else. It’s a matter of perspective. I think there are a few key ways of looking at it to change your outlook.&lt;/p&gt;
 &lt;h4 id=&quot;67ba&quot; class=&quot;graf--h4&quot;&gt;The arrow of time.&lt;/h4&gt;
 &lt;p id=&quot;0daf&quot; class=&quot;graf--p&quot;&gt;&lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;Past:&lt;/strong&gt; I can’t believe this shit happened to me&lt;br /&gt;
 &lt;strong class=&quot;markup--strong markup--p-strong&quot;&gt;Future:&lt;/strong&gt; Shit Happens. Wipe it off.&lt;/p&gt;
@@ -1969,6 +1968,8 @@
 &lt;p id=&quot;0563&quot; class=&quot;graf--p&quot;&gt;Ok… the metaphor might be stretching a bit thin, but I think I’m making my point. It’s all in the words we choose. Take a look at your tweets and facebook posts. Take a read though the posts of people you intently read and through the ones you actively avoid.&lt;/p&gt;
 &lt;p id=&quot;aa59&quot; class=&quot;graf--p&quot;&gt;Pay attention to these arrows.&lt;/p&gt;
 &lt;p id=&quot;3c39&quot; class=&quot;graf--p graf--last&quot;&gt;Perhaps it might change your perspective.&lt;/p&gt;
+
+&lt;sub&gt;Part of Art is Trash, from &lt;a href=&quot;http://depajaro.blogspot.ca/&quot;&gt;Francisco de Pájaro&lt;/a&gt;&lt;/sub&gt;
 </content>
  </entry>
  
@@ -1996,8 +1997,7 @@ a calm night to finally rest my shoulders on.&lt;/p&gt;
    <link href="http://ethernick.github.io/time-of-the-introvert"/>
    <updated>2013-08-20T22:05:18-07:00</updated>
    <id>http://ethernick.github.io/time-of-the-introvert</id>
-   <content type="html">&lt;p&gt;[caption id=&quot;attachment_1291&quot; align=&quot;aligncenter&quot; width=&quot;507&quot;]&lt;img class=&quot;size-full wp-image-1291&quot; src=&quot;/assets/img/2015/09/1-YgYbmzFQYGPWCsXxpixCUw.jpeg&quot; alt=&quot;Creative commons image courtesy of roberttellier&quot; width=&quot;507&quot; height=&quot;640&quot; /&gt; Creative commons image courtesy of &lt;a href=&quot;http://www.flickr.com/photos/roberttellier/&quot;&gt;roberttellier&lt;/a&gt;[/caption]&lt;/p&gt;
-&lt;h4 id=&quot;71de&quot; class=&quot;graf--h4&quot; style=&quot;text-align: center;&quot;&gt;It’s nice that &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;https://www.google.ca/search?q=introvert&amp;amp;tbm=blg&amp;amp;tbs=qdr:w&quot; rel=&quot;nofollow&quot; data-href=&quot;https://www.google.ca/search?q=introvert&amp;amp;tbm=blg&amp;amp;tbs=qdr:w&quot;&gt;introverts&lt;/a&gt; are &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;http://www.montrealgazette.com/life/Susan+Schwartz+Lessons+learn+from+introverts/8748121/story.html&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.montrealgazette.com/life/Susan+Schwartz+Lessons+learn+from+introverts/8748121/story.html&quot;&gt;getting&lt;/a&gt; &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;http://www.psychologytoday.com/collections/201308/revenge-the-introvert&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.psychologytoday.com/collections/201308/revenge-the-introvert&quot;&gt;more&lt;/a&gt; &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;http://www.forbes.com/sites/victorlipman/2013/08/15/why-introverts-can-make-excellent-executives/&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.forbes.com/sites/victorlipman/2013/08/15/why-introverts-can-make-excellent-executives/&quot;&gt;attention&lt;/a&gt;.&lt;/h4&gt;
+   <content type="html">&lt;h4 id=&quot;71de&quot; class=&quot;graf--h4&quot; style=&quot;text-align: center;&quot;&gt;It’s nice that &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;https://www.google.ca/search?q=introvert&amp;amp;tbm=blg&amp;amp;tbs=qdr:w&quot; rel=&quot;nofollow&quot; data-href=&quot;https://www.google.ca/search?q=introvert&amp;amp;tbm=blg&amp;amp;tbs=qdr:w&quot;&gt;introverts&lt;/a&gt; are &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;http://www.montrealgazette.com/life/Susan+Schwartz+Lessons+learn+from+introverts/8748121/story.html&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.montrealgazette.com/life/Susan+Schwartz+Lessons+learn+from+introverts/8748121/story.html&quot;&gt;getting&lt;/a&gt; &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;http://www.psychologytoday.com/collections/201308/revenge-the-introvert&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.psychologytoday.com/collections/201308/revenge-the-introvert&quot;&gt;more&lt;/a&gt; &lt;a class=&quot;markup--anchor markup--h4-anchor&quot; href=&quot;http://www.forbes.com/sites/victorlipman/2013/08/15/why-introverts-can-make-excellent-executives/&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.forbes.com/sites/victorlipman/2013/08/15/why-introverts-can-make-excellent-executives/&quot;&gt;attention&lt;/a&gt;.&lt;/h4&gt;
 &lt;p id=&quot;c6c1&quot; class=&quot;graf--p&quot;&gt;In the recent slew was &lt;a class=&quot;markup--anchor markup--p-anchor&quot; href=&quot;http://www.huffingtonpost.com/2013/08/20/introverts-signs-am-i-introverted_n_3721431.html&quot; rel=&quot;nofollow&quot; data-href=&quot;http://www.huffingtonpost.com/2013/08/20/introverts-signs-am-i-introverted_n_3721431.html&quot;&gt;this one from the Huffington Post&lt;/a&gt; about signs of introverts. Here are the ones that most jumped out at me:&lt;/p&gt;
 &lt;ul class=&quot;postList&quot;&gt;
 &lt;li id=&quot;4e7e&quot; class=&quot;graf--li&quot;&gt;You go to parties -– but not to meet people.&lt;/li&gt;
@@ -2017,6 +2017,8 @@ a calm night to finally rest my shoulders on.&lt;/p&gt;
 I am blowing off the dust and giving this a new home.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;sub&gt;Creative commons featured image courtesy of &lt;a href=&quot;http://www.flickr.com/photos/roberttellier/&quot;&gt;roberttellier&lt;/a&gt;&lt;/sub&gt;
 </content>
  </entry>
  
@@ -2060,7 +2062,6 @@ I am blowing off the dust and giving this a new home.&lt;/em&gt;&lt;/p&gt;
    <content type="html">&lt;section class=&quot; section--body section--first&quot;&gt;
 &lt;div class=&quot;section-content&quot;&gt;
 &lt;div class=&quot;section-inner layoutSingleColumn&quot; style=&quot;text-align: center;&quot;&gt;
-&lt;p class=&quot;graf--p&quot; style=&quot;text-align: left;&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-1285&quot; src=&quot;/assets/img/2015/09/1-jZ26fzHEjvX8GRwIegPO9w.jpeg&quot; alt=&quot;1-jZ26fzHEjvX8GRwIegPO9w&quot; width=&quot;450&quot; height=&quot;305&quot; /&gt;&lt;/p&gt;
 &lt;p id=&quot;82bf&quot; class=&quot;graf--p&quot; style=&quot;text-align: left;&quot;&gt;I understand the law of attraction, and without all the hippy dippy fluffery that surrounds it, it makes sense. You make your world in your mind and things start happening. You want a house — build it in your mind and you start seeing opportunities to make it real. Sci-fi should be a prime example of how a mind and collective mind have shaped our world from astronauts to cell phones to the internet.&lt;/p&gt;
 &lt;p id=&quot;f0cc&quot; class=&quot;graf--p&quot; style=&quot;text-align: left;&quot;&gt;While reading yet another book on it, &lt;em class=&quot;markup--em markup--p-em&quot;&gt;The Passion Test&lt;/em&gt;, I get a feeling, that again, it skipped a core step.&lt;/p&gt;
 &lt;p&gt;What the fuck do I want to make with my mind?&lt;/p&gt;
