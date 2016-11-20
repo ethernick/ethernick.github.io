@@ -9,13 +9,29 @@ tagline:             'Simple question. Complex Answer.'
 description:         "I've been asking myself this question for most my life. I still don't have an answer."
 url:                 http://ethernick.github.io
 baseurl:             ''
+markdown:            kramdown
+highlighter:         rouge
+gems:                [jekyll-paginate]
 paginate:            5
 
 # About/contact
 author:
   name:              Nick Kempinski
-  url:               https://twitter.com/ethernick
   email:             nick@whoisnick.com
 
 # Custom vars
-version:             9.0.0
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Archive
+   url: /archive.html
+
+social:
+   github: ethernick
+   twitter: eternick
+   facebook: nick.kempinski
+   email: nick@whoisnick.com
+
+google_analytics: ""

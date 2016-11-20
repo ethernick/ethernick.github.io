@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
 ---
-
-## Who Is Nick?
 
 ### Heck if I know…
 
@@ -36,5 +34,5 @@ Or if none of those work,&nbsp;google "[ethernick](https://www.google.ca/search?
 Some fun facts about the setup of this project include:
 
 * Hosted for free on [GitHub Pages](https://pages.github.com) using [Jekyll](http://jekyllrb.com)
-* Themed with [Lanyon](http://lanyon.getpoole.com)
+* Themed with [Long Haul](https://github.com/brianmaierjr/long-haul)
 * I code with [Atom](http://atom.io)
