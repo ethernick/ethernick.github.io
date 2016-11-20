@@ -275,6 +275,7 @@ POST STYLING
 
 	img {
 		margin-bottom: 2rem;
+    height: auto;
 	}
 
 	.highlight {
@@ -290,11 +291,20 @@ POST STYLING
 	.featuredImage {
 		position: relative;
 		margin-top: 2rem;
+    text-align: center;
 
 		img {
 			margin-bottom: 0;
 		}
 	}
+
+  sup {
+    color: $subtle-color;
+    font-size: 0.7em;
+    text-align: center;
+    display: block;
+    margin: 40px 0px;
+  }
 }
 
 
@@ -494,4 +504,8 @@ POST LIST STYLING
 			margin: 0 0 .5em;
 		}
 	}
+
+  img {
+    height:auto;
+  }
 }
