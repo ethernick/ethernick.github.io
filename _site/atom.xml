@@ -4,13 +4,22 @@
  <title>Who Is Nick?</title>
  <link href="http://ethernick.github.io/atom.xml" rel="self"/>
  <link href="http://ethernick.github.io/"/>
- <updated>2016-11-20T16:39:31-08:00</updated>
+ <updated>2016-12-17T12:04:21-08:00</updated>
  <id>http://ethernick.github.io</id>
  <author>
    <name>Nick Kempinski</name>
    <email>nick@whoisnick.com</email>
  </author>
 
+ 
+ <entry>
+   <title>80's Westworld</title>
+   <link href="http://ethernick.github.io/80s-westworld"/>
+   <updated>2016-12-17T11:54:00-08:00</updated>
+   <id>http://ethernick.github.io/80s-westworld</id>
+   <content type="html">&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/niggydsYjrU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Pouvre Pouvre Ben</title>
@@ -216,7 +225,7 @@
    <content type="html">&lt;p&gt;I am a web waffler. I host my own blog. Then outsource is to another platform. Then host my own blog with a slightly different twist. Then dump it and move everything to tumblr. Then dump it again and move everything to Medium. Then host it. Dump it. Host it. Dump it.&lt;/p&gt;
 &lt;p&gt;Well it's back to hosting again and I was wondering what theme to use. so I looked into the way back machine. I forgot about some of the designs I've had.&lt;/p&gt;
 &lt;p&gt;The ultimate winner was &lt;a href=&quot;https://web.archive.org/web/20070809234114/http://whoisnick.com/&quot; target=&quot;_blank&quot;&gt;this 2007 chunky, text heavy, colour coded beast&lt;/a&gt; &lt;del&gt;you see before you&lt;/del&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Update March 12, 2016:&lt;/strong&gt;&lt;/em&gt; Well that was the quickest turnaround on a layout I've ever had. No more! I say &lt;a href=&quot;http://whoisnick.com/fuck-the-fancy/&quot;&gt;Fuck the Fancy&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Update March 12, 2016:&lt;/strong&gt;&lt;/em&gt; Well that was the quickest turnaround on a layout I've ever had. No more! I say &lt;a href=&quot;/fuck-the-fancy/&quot;&gt;Fuck the Fancy&lt;/a&gt;!&lt;/p&gt;
 </content>
  </entry>
  
@@ -2753,7 +2762,7 @@ Facepalm()
    <updated>2012-08-02T17:04:58-07:00</updated>
    <id>http://ethernick.github.io/be-a-tumbleweed</id>
    <content type="html">&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/5tal0NkWW1E&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;There was a while when &lt;a href=&quot;http://whoisnick.com/the-manifesto-i-didnt-submit&quot;&gt;I was the tumbleweed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There was a while when &lt;a href=&quot;/the-manifesto-i-didnt-submit&quot;&gt;I was the tumbleweed&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I was taking the passenger seat, not because I couldn’t choose, maybe, because I had bigger puzzles to answer.&lt;/p&gt;
 </content>
  </entry>
@@ -4521,7 +4530,6 @@ Redirect /facebook &lt;a href=&quot;http://www.facebook.com/MyStationRulesTheAir
    <updated>2010-02-24T16:48:23-08:00</updated>
    <id>http://ethernick.github.io/cup-art-2</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/img/2010/02/tumblr_kycup27yVL1qz5zo6o1_500.jpg&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;375&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://whoisnick.com/entry/4-273.html&quot;&gt;Posted the picture: Cup Art&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -4936,7 +4944,7 @@ Redirect /facebook &lt;a href=&quot;http://www.facebook.com/MyStationRulesTheAir
    <link href="http://ethernick.github.io/when-i-say-faith-do-you-think-religion"/>
    <updated>2008-12-30T05:51:00-08:00</updated>
    <id>http://ethernick.github.io/when-i-say-faith-do-you-think-religion</id>
-   <content type="html">&lt;p&gt;After posting &lt;a href=&quot;http://whoisnick.com/you-need-to-have-faith-that-it-will-pan-out-take&quot;&gt;Faith in the Process&lt;/a&gt; I came across &lt;a href=&quot;http://www.ted.com/index.php/talks/richard_dawkins_on_militant_atheism.html&quot;&gt;Richard Dawkins&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;After posting &lt;a href=&quot;/you-need-to-have-faith-that-it-will-pan-out-take&quot;&gt;Faith in the Process&lt;/a&gt; I came across &lt;a href=&quot;http://www.ted.com/index.php/talks/richard_dawkins_on_militant_atheism.html&quot;&gt;Richard Dawkins&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;He uses the term faith synonymously with religious and that surprises me. I use that word a lot, but I don’t think of it in the same way.&lt;/p&gt;
 &lt;p&gt;Dawkins has said&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Faith is the great cop-out, the great excuse to evade the need to think and evaluate evidence. Faith is belief in spite of, even perhaps because of, the lack of evidence.&lt;/p&gt;&lt;/blockquote&gt;
@@ -5007,7 +5015,7 @@ Something that might happen from time to time, is your tools might need to chang
    <updated>2008-12-22T15:57:28-08:00</updated>
    <id>http://ethernick.github.io/as-youve-seen-from-my-observations-on-avatar</id>
    <content type="html">&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/ZisWjdjs-gM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;As you’ve seen from my observations on &lt;a href=&quot;http://whoisnick.com/avatar-the-renaissance-soul&quot;&gt;Avatar&lt;/a&gt;, I’m a cartoon lover. There is something in the art of teaching our children that bring out things that are “deceptively simple.” Stories that are to the point, and yet, when watched again have a beautiful complexity.&lt;/p&gt;
+&lt;p&gt;As you’ve seen from my observations on &lt;a href=&quot;/avatar-the-renaissance-soul&quot;&gt;Avatar&lt;/a&gt;, I’m a cartoon lover. There is something in the art of teaching our children that bring out things that are “deceptively simple.” Stories that are to the point, and yet, when watched again have a beautiful complexity.&lt;/p&gt;
 &lt;p&gt;Case in point - Wall-E ( yes, it’s taken me long enough to get around to actually watching it )&lt;/p&gt;
 &lt;p&gt;On one hand, you have a love story.&lt;/p&gt;
 &lt;p&gt;On the other, you have a robot, logical in nature, who is inquisitive and is a &lt;b&gt;catalyst for change&lt;/b&gt;. Simply by his curiosity for people and things; simply by doing something different: things happen around him. If you haven’t seen it yet, I strongly recommend you watch it.&lt;/p&gt;
@@ -5057,7 +5065,7 @@ Something that might happen from time to time, is your tools might need to chang
    <updated>2008-12-14T06:38:15-08:00</updated>
    <id>http://ethernick.github.io/people-food</id>
    <content type="html">&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/vo7Sng5Jeb0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Sometimes we are more diverse then we know. But it comes down to &lt;a href=&quot;http://whoisnick.com/you-dont-know-what-you-dont-know&quot;&gt;YDKWYDK ( you don’t know what you don’t know )&lt;/a&gt;. So you need help. Enter the collective. The herd, the tribe, what ever you what to call it. People. More brains then just yours.&lt;/p&gt;
+&lt;p&gt;Sometimes we are more diverse then we know. But it comes down to &lt;a href=&quot;/you-dont-know-what-you-dont-know&quot;&gt;YDKWYDK ( you don’t know what you don’t know )&lt;/a&gt;. So you need help. Enter the collective. The herd, the tribe, what ever you what to call it. People. More brains then just yours.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://www.people-food.com/things.html&quot;&gt;PEOPLE-FOOD&lt;/a&gt; is a Los Angeles-based art collective that specializes in &lt;b&gt;&lt;a href=&quot;http://people-food.com/morelonely.html&quot;&gt;writing&lt;/a&gt;, directing and developing film, theater, television and online content&lt;/b&gt;. Unique in its composition, the foursome applies its high concepts and low blows to the cross-pollinated entertainment industries of the modern age. Their primary goal is to create intelligent, boundary-pushing works that enhance and unify art and commerce while making people laugh. Hysterically.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;um….note the bold. That’s pretty much everything.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -6238,7 +6246,7 @@ You can think of it plainly as food, but I like to think about it as things I ne
    <id>http://ethernick.github.io/omni-productive</id>
    <content type="html">&lt;p&gt;I&amp;rsquo;ve been more productive lately. At times maybe a little too productive to the point of burn out ( but that’s a different post, which I may or may not write ). So, what then made the change? Was there any change at all?&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Was there any change?&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;This is very philosophical. A kin to the one with &lt;a href=&quot;http://whoisnick.com/post/43190624&quot;&gt;the bear, in the woods with no one around, and the odd smell of pepper&lt;/a&gt;. Hmmmmm.&lt;/p&gt;
+&lt;p&gt;This is very philosophical. A kin to the one with the bear, in the woods with no one around, and the odd smell of pepper. Hmmmmm.&lt;/p&gt;
 &lt;p&gt;Simple answer “yes”.&lt;/p&gt;
 &lt;p&gt;Long answer, is still “yes” but with explanation.&lt;/p&gt;
 &lt;p&gt;Change is funny. Change is difficult. Change is messy. And the first thing one must do, is feel awkward about something; anything! If you don’t have some sort of knot, or confusion, or nerves, then my friend, you are not changing.&lt;/p&gt;
@@ -6777,7 +6785,7 @@ Have you succeeded in meeting those goals?&lt;/p&gt;
 &lt;p&gt;However, as the rest is being completed, the nice highlights are going terrible wrong. My beef, especially is with the elevator hallways. They are huge walls of dry wall bubbles.&lt;/p&gt;
 &lt;p&gt;Now, the first thing I think in the morning is that I’m in &lt;a href=&quot;http://www.imdb.com/title/tt0074812/&quot;&gt;Logan’s Run&lt;/a&gt; or &lt;a href=&quot;http://www.imdb.com/title/tt0062622/&quot;&gt;2001: A Space Odyssey&lt;/a&gt;. I’m thinking I should be wearing polyester winged collars and bell bottoms that are dated, and yet still supposed to look like the future.&lt;/p&gt;
 &lt;p&gt;Corporate culture is a tricky balance, especially if you are trying to bring smaller foreign cultures into the fold of larger corporations. There are loads of signals that the employee’s are looking for. Yes, a redesigns are powerful statements. But, with powerful statements come double edged swords. Because of our overhaul, I’m seeing the company very differently.&lt;/p&gt;
-&lt;p&gt;What a take for the new interior is the company is “trying” to be cooler then they really are. The design tells me, we are trying to be “hip” and “with-it”. Give this and my previous post about the &lt;a href=&quot;http://whoisnick.com/post/28645915177/value-statements&quot;&gt;secret office&lt;/a&gt;, and it’s clear that they aren’t.&lt;/p&gt;
+&lt;p&gt;What a take for the new interior is the company is “trying” to be cooler then they really are. The design tells me, we are trying to be “hip” and “with-it”. Give this and my previous post about the &lt;a href=&quot;/value-statements&quot;&gt;secret office&lt;/a&gt;, and it’s clear that they aren’t.&lt;/p&gt;
 &lt;p&gt;Don’t pretend to be something you’re not. It always comes through loud and clear when the signals are mixed.&lt;/p&gt;
 </content>
  </entry>
