@@ -4,13 +4,46 @@
  <title>Who Is Nick?</title>
  <link href="http://ethernick.github.io/atom.xml" rel="self"/>
  <link href="http://ethernick.github.io/"/>
- <updated>2016-12-17T12:04:21-08:00</updated>
+ <updated>2017-07-18T07:37:29-07:00</updated>
  <id>http://ethernick.github.io</id>
  <author>
    <name>Nick Kempinski</name>
    <email>nick@whoisnick.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Broke my phone, Stupid Rogers</title>
+   <link href="http://ethernick.github.io/broken-phone-stupid-rogers"/>
+   <updated>2017-04-16T11:25:00-07:00</updated>
+   <id>http://ethernick.github.io/broken-phone-stupid-rogers</id>
+   <content type="html">&lt;p&gt;My iPhone 5C is dead.&lt;/p&gt;
+&lt;p&gt;Again&lt;/p&gt;
+&lt;p&gt;I thought we had lost it, but a friend saved it. Then in my excitment to tell the story of the saved iPhone, 
+I chucked it across the room and now the screen is broken. Dead again&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;Rogers now wants to charge me a stupid amount of money for &lt;i&gt;not&lt;/i&gt; the newest iPhone 6.... ummmm?? What?&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;So until I come up with either some $$ or another plan... it shall remain dead.&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Update: April 17, 2016&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Never go to a &quot;franchise&quot; location!&lt;/p&gt;
+&lt;p&gt;Finally went to a real location, and while I didn't get the latest 7. I got the SE for Free.&lt;/p&gt;
+&lt;p&gt;Much better. Plus it fits in my 5C case perfectly&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Watching Mastodon. Carefully.</title>
+   <link href="http://ethernick.github.io/watching-mastodon-carefully"/>
+   <updated>2017-04-12T22:40:00-07:00</updated>
+   <id>http://ethernick.github.io/watching-mastodon-carefully</id>
+   <content type="html">&lt;p&gt;I want to sign up to one of the &lt;a href=&quot;https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/List-of-Mastodon-instances.md&quot;&gt;mastodon instances&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I Just can't pick right now. It's like registering for [insert absurd name here]@hotmail.com.
+  Or using hotmail or yahoo for an aplication to any tech job. I feel it will be important soon.&lt;/p&gt;
+&lt;p&gt;What's really good is that Mastodon is the layer missing from Twitter. If twitter is the hum
+  and churn of a busy street. Mastodon are the shops and cafe's along the way. Pop in an out of
+  mini communities all while being connected.&lt;/p&gt;
+&lt;p&gt;I'm surprised more businesses haven't spun any instances or communities up yet&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>80's Westworld</title>
