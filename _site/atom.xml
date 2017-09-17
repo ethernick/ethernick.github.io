@@ -4,13 +4,37 @@
  <title>Who Is Nick?</title>
  <link href="http://ethernick.github.io/atom.xml" rel="self"/>
  <link href="http://ethernick.github.io/"/>
- <updated>2017-09-14T08:14:34-07:00</updated>
+ <updated>2017-09-17T11:48:23-07:00</updated>
  <id>http://ethernick.github.io</id>
  <author>
    <name>Nick Kempinski</name>
    <email>nick@whoisnick.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Sputnik Moments</title>
+   <link href="http://ethernick.github.io/sputnik-moment"/>
+   <updated>2017-09-14T09:03:00-07:00</updated>
+   <id>http://ethernick.github.io/sputnik-moment</id>
+   <content type="html">&lt;p&gt;Two things I like about &lt;a href=&quot;http://www.politico.com/agenda/story/2017/09/11/china-leaping-past-us-000509&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;One&lt;/b&gt; - &quot;Sputnik Moments&quot;&lt;/p&gt;
+
+&lt;blockquote&gt;In recent months, China has quietly given the United States a series
+  of new &quot;Sputnik Moments&quot;&lt;/blockquote&gt;
+
+&lt;p&gt;Although a tad fear mongering, still very very cool phrase&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Two&lt;/b&gt; - Quantum Communications&lt;/p&gt;
+
+&lt;blockquote&gt;China successfully tested the world’s first quantum satellite
+  communication – relying on the physics of quantum entanglement to send and
+  receive provably secure messages.&lt;/blockquote&gt;
+
+&lt;p&gt;I beg your pardon? What did it just say? &lt;b&gt;Quantum Satellite Communication&lt;/b&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The value of information is immediacy</title>
