@@ -22,11 +22,13 @@ author:
 # Custom vars
 navigation:
  - title:            Home
-   url:              /index.html
+   url:              /index
+ - title:            Beer
+   url:              /beer
  - title:            About
    url:              /about
  - title:            Archive
-   url:              /archive.html
+   url:              /archive
 
 social:
    github:           ethernick

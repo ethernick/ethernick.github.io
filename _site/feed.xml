@@ -5,9 +5,38 @@
     <description>I've been asking myself this question for most my life. I still don't have an answer.</description>
     <link>http://ethernick.github.io/</link>
     <atom:link href="http://ethernick.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Sep 2017 13:41:38 -0700</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2017 13:41:38 -0700</lastBuildDate>
+    <pubDate>Sun, 01 Oct 2017 17:19:14 -0700</pubDate>
+    <lastBuildDate>Sun, 01 Oct 2017 17:19:14 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      
+      <item>
+        <title>Going Ghost Again</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://ethernick.com&quot;&gt;Ethernick.com&lt;/a&gt; is now running off
+  &lt;a href=&quot;https://www.linode.com/?r=bdaf86dd0a1dad89f9d4cb15e00f91ee3816c7b3&quot;&gt;linode&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thought it was a good time to expand and play. Not many hosts are offering something
+  relatively cheap to run node. I've been antsy to see how Ghost is doing
+  in a real world context.&lt;/p&gt;
+&lt;p&gt;As of now, my previous medium hosted publication,
+  &lt;a href=&quot;http://a.ethernick.com&quot;&gt;The aether&lt;/a&gt;, has been moved onto ghost.&lt;/p&gt;
+</description>
+        
+          <description>&lt;p&gt;&lt;a href=&quot;http://ethernick.com&quot;&gt;Ethernick.com&lt;/a&gt; is now running off
+  &lt;a href=&quot;https://www.linode.com/?r=bdaf86dd0a1dad89f9d4cb15e00f91ee3816c7b3&quot;&gt;linode&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thought it was a good time to expand and play. Not many hosts are offering something
+  relatively cheap to run node. I've been antsy to see how Ghost is doing
+  in a real world context.&lt;/p&gt;
+&lt;p&gt;As of now, my previous medium hosted publication,
+  &lt;a href=&quot;http://a.ethernick.com&quot;&gt;The aether&lt;/a&gt;, has been moved onto ghost.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 23 Sep 2017 14:37:00 -0700</pubDate>
+        <link>http://ethernick.github.io/going-ghost-again</link>
+        <guid isPermaLink="true">http://ethernick.github.io/going-ghost-again</guid>
+        
+        
+      </item>
+      
     
       
       <item>
@@ -260,29 +289,6 @@ I chucked it across the room and now the screen is broken. Dead again&lt;/p&gt;
         
         
         <category>Geeking out, just a bit</category>
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>Peculiarity</title>
-        <description>&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/tV_IhWE4LP0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Tim Burton's kind of heroes.&lt;/p&gt;
-</description>
-        
-          <description>&lt;p&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/tV_IhWE4LP0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Tim Burton's kind of heroes.&lt;/p&gt;
-</description>
-        
-        <pubDate>Tue, 15 Mar 2016 17:31:30 -0700</pubDate>
-        <link>http://ethernick.github.io/peculiarity</link>
-        <guid isPermaLink="true">http://ethernick.github.io/peculiarity</guid>
-        
-        <category>share</category>
-        
-        
-        <category>Media Man</category>
         
       </item>
       
