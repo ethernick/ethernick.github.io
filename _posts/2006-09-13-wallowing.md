@@ -1,0 +1,30 @@
+---
+layout: post
+title: Wallowing
+---
+<img align="right" src="/assets/img/2006/ice_creamtub.jpg" />
+Where have I been? I’ve been sitting on my couch and doing sweet FA. Why? Because
+I felt like it. To be honest, I’ve been in a funk. It’s not about earth shattering
+events in life. I haven’t gone through heart shattering events. Sometimes, I think,
+we all just hear a little “snap” inside. Could be burn-out, could be a string of
+unfortunate events, or it could simply be the way the wind is blowing or the
+weather outside. Sometimes a little sweet FA is what the doctor ordered.
+
+Some might consider this wallowing, and they might be right. I thought it was
+wallowing. At first, my reaction towards my instincts, were that is was
+counter-productive. Wallowing doesn’t do any good but change my point of view to
+see all the crappy things. But then the thought occurred, maybe that’s what I
+needed. In the world of improvement, to ignore the bad, is the best way to build
+your own little invisible brick wall that will ultimately have your journey slam
+to a stop. You won’t know why, or how, or where it came from, but when you hit
+it, it will hurt bad. To improve, the bad must be looked at. We need to know when
+we are beating a dead horse, or even worse, riding one. I think the only way to
+really know for sure, it to put on the brown goggles, and look around you.
+
+Not only that, but it’s like the blues. It’s called the blues because it’s
+...well...blue: "My baby left me"; "I’m in a broke down motel"; "I got no money".
+Admitting it all, somehow makes you appreciate the beauty of the music. For some
+odd reason, realizing how much bad, makes you appreciate that a) your still
+kicking around and b) that through it all, there is still good.
+
+Is my wallowing over? maybe, maybe-not. I’ll have some more ice-cream and decide.
