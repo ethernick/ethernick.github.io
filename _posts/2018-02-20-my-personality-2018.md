@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Personality: 2018
+title: My Personality (2018 Edition)
 ---
 [15 Years later](http://whoisnick.com/my-personality) and I still like to do my personality test. And it's changed: Extrovert to Introvert.
 
@@ -9,7 +9,7 @@ title: My Personality: 2018
 "Questor". High capacity for caring. Emotional face to the world. High sense of honor derived from internal values. 4.4% of total population.
 
 | Type 1 | Orderliness | ``||||||`` | 30% |
-| Type 2 | Helpfulness | ``||||||||||||||||||`` | 73%|
+| Type 2 | Helpfulness | ``||||||||||||||||||`` | 73% |
 | Type 3 | Image Awareness | ``||||||||||||`` | 46% |
 | Type 4 | Individuality | ``||||||||||||||||`` | 70% |
 | Type 5 | Rationality | ``||||||||||||||`` | 56% |
