@@ -20,6 +20,7 @@ title: My Personality (2018 Edition)
 
 
 Your main type is **Type 9**
+
 Your variant stacking is **spsosx**
 
 | type | score | type behavior motivation |

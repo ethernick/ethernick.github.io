@@ -1,0 +1,9 @@
+---
+layout: post
+title: I'm a lone lemming
+---
+Kind of like a lone wolf who sets out from the pack to make their own, I've come to the conclusion that I'm a lone lemming. Unlike other lemmings, I survive the fall. And what's more, I choose to fall again. I keep falling and jumping and falling, hoping that I'm like the Pegasus of lemmings. I'll be able to fly. Who knows one day I just might.
+
+So it's official, I'm an independent consultant. Last night was a total blast. Everyone was there. It was a great feeling to look around the table and see how many people came out to see me off. Boy, it felt good. Sure, right now, I'm not feeling so good, but that's only the hangover.
+
+Who knows what next now. I'll figure it out along the way. But the point is I'm independent, on my own, a lone lemming. And I know no matter what happens, I always survive the fall.
