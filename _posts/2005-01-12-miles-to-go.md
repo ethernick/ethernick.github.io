@@ -1,0 +1,9 @@
+---
+layout: post
+title: Miles to go before I sleep
+---
+Sure, it took me long enough, and I’ve still got miles to go before I sleep. But I’ve got something up in a development location, [dev.wherestheshow.com](https://web.archive.org/web/20050907005611/http://dev.wherestheshow.com/). Remember this is for development purposes so if something goes completely wrong, it’s to be expected. There is a whack of things still to do especially the reminders feature, which is a really key feature needed before launch.
+
+Oh and one problem, was as I was building this out, the data I had in there is now outdated. So now I need to scramble to add in more listings into the system. If there are any listings you want to see, let me know.
+
+So people, time to hack away. Let me know what sucks and what doesn’t. The more feedback the better.

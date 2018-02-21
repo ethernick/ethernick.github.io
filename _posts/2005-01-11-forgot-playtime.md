@@ -1,0 +1,13 @@
+---
+layout: post
+title: Oops, I forgot to have playtime!
+---
+Read an interesting post on Curt Rosengren's blog about the need to play: [Play your way to your best work.](http://curtrosengren.typepad.com/occupationaladventure/2005/01/play_your_way_t.html)
+
+The idea that “work is called work for a reason” and that “work isn’t meant to be fun” is so deeply entrenched in our collective cultural psyche that it actually ends up being a big roadblock for many when they look at pursuing their passions.
+
+It is also, of course, complete nonsense. The only thing that committing to a life of work as a four letter word will do will be to slowly, bit by bit, drain away both your energy and your productivity. A career filled with fun and meaning, on the other hand, can unleash the amazing potential we all have.
+
+I’ve been going through this little energy drain myself. It started to come out in my [previous post](/tricking-the-mind). Nothing blatant but when you’re having fun, why do you need a trick at all? You see, here I am trying to find ways to “work” when in fact, maybe, I should be finding ways to “play”.
+
+So, thanks Curt for not only giving me a little reminder of things lost, but also introducing me to [Bernie DeKoven](https://www.deepfun.com/). I think I'm going to take his site for a quick stroll.
