@@ -1,0 +1,7 @@
+---
+layout: post
+title: They're all going to talk about you
+---
+As I mentioned in my first [post](/new-leaf), I put in my resignation at work. It's an extremely liberating experience. But unlike others, I put in 3 months notice. At work I do a billion and 3 things. I've created that niche position just for me and I've become "irreplaceable". Which really means, there is no way in hell I'm ever going to be able to get a new position at least at the company I work for now. So when the window of opportunity open I said "why not". Now the interesting things about it all is the reactions. There are people who are thrilled for me leaving, some aren't but happy, there are the people who honestly don't care, and then there are the people who don't talk to me anymore. It's funny to here the reaction or when people start the conversation as "I heard a little rumour..." or "Say it ain't so". I haven't told anyone who hasn't come to me with it first. It's actually becoming my little interest to see where the rumour mill is going next.
+
+I always considered myself open and receptive enough to look at the whole picture. To really see how people see me, but as this process goes I start to wonder. What else goes with the rumour? It's the first time really that I've ever wondered. I'm not going to go down the path, because I personally don't agree with the gossip gravy train, and I slap my own hands when I do it. But it's still a wonder. How many times have people talked about you?

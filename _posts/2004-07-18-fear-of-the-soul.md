@@ -1,0 +1,9 @@
+---
+layout: post
+title: Fear of the Soul
+---
+As I've been getting into the world of business, I'm still an infant in this world, I've been noticing a trend. It seems to me that people are afraid of the theological implications of business. Why is it that people are afraid of the spiritual in business? I'm willing to admit that my new eyes in this world are wrong. I'm willing to admit that I'm not reading the right places or seeing the right things, but if that's the case, can someone please let me know.
+
+With so many people around the world believing in something beyond, I find it strange that it's not as widely spoken about in business. Words like faith are intently avoided. I came across a [post](http://curtrosengren.typepad.com/occupationaladventure/2004/07/breathe.html) that Curt Rosengren, The Occupational Adventurer(sm), made about meditation. I was happy for the fact that such a world like "meditation" and "centering" made it into a blog about business; I was happy at the fact that he was making a good point about the importance to take a moment to calm. But he then decided to keep going with, "I don't mean wrap yourself in a pretzel and contemplate the sound of one hand clapping meditation." What's that? Did that sound like a little slam? My point here isn't an attack on Curt, thank you by the way for triggering this little thought. My point is that if yoga or thai-chi or meditative chanting is a tool you've found to use, then use it.
+
+You can't be afraid to believe in your beliefs in this world. If you are where a suit and in an office you can't be expected to put your spirit away in a little box and hide it. Their is a warning....**you can't shove it in people faces either**. If they don't believe in your belief so be it, move on. I've found the most interesting conversations and those most enlightening moments with co-workers are when I speak about the spiritual things. 
