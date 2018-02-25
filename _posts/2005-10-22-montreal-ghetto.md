@@ -1,0 +1,21 @@
+---
+layout: post
+title: Observations from the Montreal ghetto
+---
+Being in montreal over the past week was a great experience. I got to so the city and listen to a bit of jazz 
+guitar. The trip was mainly business but the little bit of pleasure I got, was good: good food, good music, 
+good sights.
+
+The odd thing about the trip was the last night. I had heard that my hotel was in the “seedy” part of town 
+but I didn’t really click in, until I realized that every woman walking alone was scared of me. On that night 
+I had decided just to walk around and take in the architecture, the life and the crisp cold air. Most of the 
+time I liked to stay off the main streets, as the hustle and bustle takes away from the “moment” feeling. One 
+after the other I noticed that the women who were walking in front of me or by me all reached into their 
+pockets and purses. It wasn’t like reaching for a kleenex or a mint, I was sure that whatever they pulled out 
+and held tight in their hand, could do some serious damage to me. It was an odd and scary sensation to see 
+that they were actually afraid of me. And because they were afraid of me…made me afraid of where I was.
+
+How could I have been afraid of Montreal? It’s a beautiful city with heritage and diversity. Don’t worry, 
+that last little experience won’t stop me from going back. I definitely want to see it again, and next time 
+I’ll just stay out of the “seedy” neighborhood.
+
