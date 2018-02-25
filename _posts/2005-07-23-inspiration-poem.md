@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Inspiration
 ---
 Tongue on tongue on  
 Cheek to cheek  
