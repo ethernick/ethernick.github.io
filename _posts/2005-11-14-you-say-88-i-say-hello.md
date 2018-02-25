@@ -1,0 +1,22 @@
+---
+layout: post
+title: You say “88″ and I say “Hello”
+---
+Some call it bastardization; some call it social degradation. I call it evolution. Today I was reading an 
+article about the internet savvy Chinese. They have adapted various puns when on the internet. Take ‘88′, to 
+us english speaking crackers it’s just a number; even to the formal trained linguist of the orient, it’s a 
+number. But not for the text messengers. It turns out ‘8′ is pronounced ba. So put two 8’s together and you 
+get ba-ba. Sounds a lot like inky or winky ( or whatever the teletubbies names are) say goodbye right before 
+jumping down their trippy little rabbit hole.
+
+I say good on them. It’s like vulgar language of the 60’s and like the ‘n’ word for Dave Chappelle and rap. 
+It’s evolution, it’s word play. There has always been a verbal and written language. Take a look at [Carmina 
+Burana](https://en.wikipedia.org/wiki/Carmina_Burana). A bunch of young teens writing in the formal written 
+verse about sex and drugs and alcohol (Gasp!) ? And Shakespeare inventing words that are still used to this day, oh my!
+
+People need to play with language, they need to experiment and try new things. Hell english alone is one of 
+the choppiest, band-aide languages out there. And it’s evolving. And just because people are using it in 
+internet slang doesn’t mean it will end up being formal. Do you think for a moment that the common folk of 
+the late 1500’s - early 1600’s actually spoke like the play’s? No…but they understood, just like we do now. 
+So I say good for them, and good for all of those out there that are pioneers and play with words.
+
