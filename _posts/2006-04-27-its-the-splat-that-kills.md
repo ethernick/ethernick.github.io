@@ -1,0 +1,11 @@
+---
+layout: post
+title: It’s the splat that kills
+---
+<img src="/assets/img/2006/tracks.jpg" align="right" style="margin-left: 10px; margin-bottom: 10px;" /> A concept raised for [Renaissance Souls](http://www.togetunstuck.com/) is that you don’t need to do everything. Don’t go for a massive ice cream cone with one flavour. Don’t even go for a massive double scoop with a combo. For us Renaissance Souls, the idea is to have a sampler. This allows us to taste a little bit of everything: a bit of Sewing, a bit of Writing, a bit of time on the Car, etc…. Part of this is to keep our always wandering attention. Instead of allotting time to just one activity, only to feel drained when we do it. We do “one of…” something. We don’t plan until we are in the moment.
+
+Bring in a phrase “[Energy Management](https://web.archive.org/web/20060807235645/http://www.worthwhilemag.com/Blogs/2006/04/25/energy/Default.aspx)“. I read this from Worthwhile. And while I don’t think we need to “ruthlessly manage” our energy like Anita believes. I do think more then the number of tasks on our plate needs to be in consideration for whether or not we are overwhelmed.
+
+**Example:** I’ve been working on a project to combine and relaunch a couple of sites into one. The project had some pretty tight timelines. But do you know what I did for the first 3 months? Picture a lot of reading, and a lot of filler. It’s not that my time was poorly managed, it was that people didn’t feel the need to rush. But now the project is getting to the end, people are running around like their hands and hair were on fire. Some people are seriously snapping from the stress. The project could have gone more smoothly simply by taking the amount of panic energy they have, and divide that by the number of months this project has been going.
+
+**Solution:** Work energy should be managed like diabetes. It’s not always the level of sugar, it’s the spikes that cause the damage. The same goes for energy. We should be able to have a reading maybe twice or 3 times a day that tells us how are energy is doing. And our job is to make sure it’s a steady as possible. Spikes in energy could cause psychological damage like diabetes causes to the body.

@@ -1,0 +1,5 @@
+---
+layout: post
+title: Trees Organic Cafe
+---
+Come down to Tree’s Organic Cafe, 8pm, 450 Granville, and listen to me with the Blue Morris 6. Great pie; great coffee; great music. All we ask for is tips.

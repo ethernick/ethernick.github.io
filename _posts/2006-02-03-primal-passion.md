@@ -1,0 +1,10 @@
+---
+layout: post
+title: Primal Passion
+---
+I recently watch [Grizzly Man](http://www.imdb.com/title/tt0427312/) with my Brother and Vanessa, I find myself in slight awe of Timothy Treadwells story. I believe what some see as one man's struggle to be a Bear, is everyone's struggle with life. The only difference between Timothy and Us, is he was willing to say it out loud and on film. “I will die…”
+
+Society around us, gives us the ability to cloud the truth. We have savings accounts and stocks, credit cards and mortgages, multi vitamins and fad diets: All saying, live for tomorrow. And in doing so they take away our power which is seeing the truth and the beauty of life which exists in each moment.
+
+For Timothy he was willing to die for the animals, for which he ultimately did. But imagine what could be accomplished if everyone found what they would die for. Now imagine what could be accomplished if we found what we would get fired for; loose our lover for; our trucks; our houses; our blood for. That is a passion that everyone should have.
+What would you get fired for?
