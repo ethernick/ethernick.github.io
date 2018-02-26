@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avatar: The Renaissance Soul
+title: Avatar - The Renaissance Soul
 ---
 ![](/assets/img/2006/avatar.jpg)
 
