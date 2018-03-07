@@ -25,6 +25,8 @@ navigation:
    url:              /index
  - title:            Beer
    url:              /beer
+ - title:            Finds
+   url:              /finds
  - title:            About
    url:              /about
  - title:            Archive
