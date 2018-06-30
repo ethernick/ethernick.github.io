@@ -10,6 +10,10 @@ title: Who Is Nick?
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         {{ post.content }}
+
+        {% if post.comments %}
+        <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{ post.title }}</a>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
