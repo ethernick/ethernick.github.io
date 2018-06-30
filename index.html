@@ -12,7 +12,7 @@ title: Who Is Nick?
         {{ post.content }}
 
         {% if post.comments %}
-        <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{ post.title }}</a>
+        <p><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Comments</a>
         {% endif %}
       </li>
     {% endfor %}
