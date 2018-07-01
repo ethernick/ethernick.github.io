@@ -20,13 +20,11 @@ I’m all over the web
  - [LinkedIn](http://www.linkedin.com/in/nkempinski)
  - [Twitter](https://twitter.com/ethernick)
  - [Facebook](https://www.facebook.com/nkempinski)
- - [App.net](https://alpha.app.net/ethernick)
  - [Google+](https://plus.google.com/+NickKempinski)
  - [Soundcloud](https://soundcloud.com/ethernick)
  - [Spotify](https://open.spotify.com/user/ethernick)
  - [Medium](https://medium.com/@ethernick)
- - [Svbtle](https://ethernick.svbtle.com/)
-
+ 
 Or if none of those work,&nbsp;google "[ethernick](https://www.google.ca/search?q=ethernick)" or "[nick kempinski](https://www.google.ca/search?q=%22nick+kempinski)" or "[nkempinski](https://www.google.ca/search?q=nkempinski)
 
 ### Setup
