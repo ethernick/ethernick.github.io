@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PYODC face smash
+title: PYODBC face smash
 ---
 Just had a hell of a time installing pyodbc on AWS ECS Linux AMI. And since I think I smashed it... here's what i did.
 
