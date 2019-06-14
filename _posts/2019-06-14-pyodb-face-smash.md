@@ -25,7 +25,7 @@ So, after running through it 100 more times slightly differently, it occured, le
 (env) $ curl -O -L https://github.com/mkleehammer/pyodbc/archive/4.0.26.tar.gz
 (env) $ tar xvzf 4.0.26.tar.gz
 (env) $ cd pyodbc-4.0.25
-(env) $ pyhon setup.py build
+(env) $ python setup.py build
 (env) $ python setup.py install
 ```
 
