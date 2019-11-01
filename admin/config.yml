@@ -27,7 +27,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - name: "beer"
         label: "Beer Page"
-        file "beer.md"
+        file: "beer.md"
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'Beer around the world' }
           - { label: 'Layout', name: 'title', widget: 'hidden', default: 'default' }
