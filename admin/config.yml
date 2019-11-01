@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: ethernick/ethernick.github.io
-site_domain: whoisnick.netlify.com
+  site_domain: whoisnick.netlify.com
 media_folder: "assets/"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
