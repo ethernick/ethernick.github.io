@@ -23,12 +23,12 @@ collections:
         file: "about.md"
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'About' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'default' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - name: "beer"
         label: "Beer Page"
         file: "beer.md"
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'Beer around the world' }
-          - { label: 'Layout', name: 'title', widget: 'hidden', default: 'default' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
