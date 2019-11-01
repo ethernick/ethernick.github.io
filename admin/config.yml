@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: ethernick/ethernick.github.io
+site_url: http://ethernick.github.io
 media_folder: "assets/"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
