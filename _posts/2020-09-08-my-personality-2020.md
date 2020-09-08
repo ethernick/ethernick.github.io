@@ -8,10 +8,10 @@ The past year has been a tough one. Let's distract myself for a moment to see ho
 
 "Questor". High capacity for caring. Emotional face to the world. High sense of honor derived from internal values. 4.4% of total population.
 
-Introverted (I) 67.74% / Extroverted (E) 32.26%
-Intuitive (N) 82.14% / Sensing (S) 17.86%
-Feeling (F) 73.33% / Thinking (T) 26.67%
-Perceiving (P) 80% / Judging (J) 20%
+Introverted (I) 67.74% / Extroverted (E) 32.26%  
+Intuitive (N) 82.14% / Sensing (S) 17.86%  
+Feeling (F) 73.33% / Thinking (T) 26.67%  
+Perceiving (P) 80% / Judging (J) 20%  
 
 | Type 1 | Orderliness | ``||||||`` | 30% |
 | Type 2 | Helpfulness | ``||||||||||||||||||`` | 73% |
