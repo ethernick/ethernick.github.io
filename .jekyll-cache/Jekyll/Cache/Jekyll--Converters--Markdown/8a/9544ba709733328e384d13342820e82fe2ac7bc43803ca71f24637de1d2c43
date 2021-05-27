@@ -1,0 +1,13 @@
+I"�<p>Upgrade is complete. It’s taken a bit of tweaking, and playing but I’m now running <a href="https://wordpress.org/news/2005/02/strayhorn/">WordPress 1.5</a>. I think the biggest hurtle was my customized layout. Sure, the new version of the template system, is much more convenient to switch but, a pain if you have you’re own template. But, all in all, the features they’ve added are nice.</p>
+
+<p>While I was at it, I made some other changes I wanted to as well. You might notice some changes, or you might not. Regardless, here is a run down of what might be different</p>
+
+<ul>
+  <li><strong>Calendar:</strong> this is my biggest peeve, but, it’s personal. I like Sunday - Saturday calendars. Well, this one isn’t. They say it has something to do with mySQL. I’m looking into that so I can get it back the way I want it.</li>
+  <li><strong>Sidebar:</strong> the sidebar has a different order.</li>
+  <li><strong>Single View:</strong> the new template system allows me to have different layouts for a single post view. So I’ve used it.</li>
+  <li><strong>Feeds:</strong> this was for fun. I’ve fixed the “more” and the “next page” in the feeds. I’ve also added in category links.</li>
+</ul>
+
+<p>So that’s pretty much it. I’ve still got some minor things, like I just found out it doesn’t validate to XHTML, so I’m going to be working on that over the next little bit. But all in all, pretty good.</p>
+:ET

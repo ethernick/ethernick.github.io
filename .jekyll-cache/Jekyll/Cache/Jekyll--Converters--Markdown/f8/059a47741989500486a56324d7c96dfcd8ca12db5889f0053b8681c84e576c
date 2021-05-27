@@ -1,0 +1,56 @@
+I"
+<p>Just had a hell of a time installing pyodbc on AWS ECS Linux AMI. And since I think I smashed it… here’s what i did.</p>
+
+<p>First go though everything on this post. An awesome start</p>
+
+<p>https://datalere.com/tips-guides/ec2-aws-linux-ami-pyodbc/</p>
+
+<p>However, the challenege I had next</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(env) [ec2-user@ip-172-30-1-231 eurion]$ pip install pyodbc
+Collecting pyodbc
+Installing collected packages: pyodbc
+</code></pre></div></div>
+
+<p>Yet, <code class="language-plaintext highlighter-rouge">pip freeze</code> <strong>still</strong> had no pyodbc! FACESMASH!</p>
+
+<p>So, after running through it 100 more times slightly differently, it occured, let’s go manually, shall we??</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(env) $ cd ~/src
+(env) $ curl -O -L https://github.com/mkleehammer/pyodbc/archive/4.0.26.tar.gz
+(env) $ tar xvzf 4.0.26.tar.gz
+(env) $ cd pyodbc-4.0.25
+(env) $ python setup.py build
+(env) $ python setup.py install
+</code></pre></div></div>
+
+<p>not there… one more error.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>TEST FAILED: env/lib64/python3.6/dist-packages/ does NOT support .pth files
+error: bad install directory or PYTHONPATH
+
+You are attempting to install a package to a directory that is not
+on PYTHONPATH and which Python does not read ".pth" files from.  The
+installation directory you specified (via --install-dir, --prefix, or
+the distutils default setting) was:
+
+    env/lib64/python3.6/dist-packages/
+
+and your PYTHONPATH environment variable currently contains:
+
+    ''
+
+</code></pre></div></div>
+
+<p>So I guess I’m setting <code class="language-plaintext highlighter-rouge">$PYTHONPATH</code></p>
+
+<p>After trying a few try’s, I needed to knwo not just my virtural environment directory but also where my 
+<code class="language-plaintext highlighter-rouge">site-packages</code> and <code class="language-plaintext highlighter-rouge">dist-packages</code>. Which ended up being</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>export PYTHONPATH=$PROJROOT/env/:$PROJROOT/env/lib64/python3.6/dist-packages/:$PROJROOT/env/lib64/python3.6/site-packages/
+</code></pre></div></div>
+
+<p>Any now give <code class="language-plaintext highlighter-rouge">python setup.py install</code> a go.</p>
+
+<p>And we’re good to go.</p>
+:ET

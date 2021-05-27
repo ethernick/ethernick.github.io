@@ -1,0 +1,20 @@
+I"J<p>You know when you wake up and your eyes just don’t want to open? Not for sake of muscle power, but because of 
+the crusties? Well that was this morning. The best solution was to go back to bed.</p>
+
+<p>Regardless of state of mind I decided to drudge through and work anyway. Now to the point….I love 
+<a href="http://ant.apache.org/">ant</a>. We are using it at work for building and I’m getting the swing and liking it. 
+The bestis it’s xml/xslt parsing. I’m working on a clients site with numerous pictures. Now, sure you still 
+need the time to chug through and resize and name them. But once you’re all complete you can hook up a few little xml config files and parse them through an xslt and voila, pages a plenty!</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;target name="xml" description="xml compiler"&gt;
+    &lt;xslt basedir="${basedir}/etc" destdir="${basedir}/web"
+      style="${basedir}/etc/page.xsl"&gt;
+      &lt;mapper type="glob" from="*.xml" to="*.html"/&gt;
+      &lt;outputproperty name="method" value="xml"/&gt;
+      &lt;outputproperty name="standalone" value="yes"/&gt;
+      &lt;outputproperty name="encoding" value="iso8859_1"/&gt;
+      &lt;outputproperty name="indent" value="no"/&gt;
+    &lt;/xslt&gt;
+&lt;/target&gt;
+</code></pre></div></div>
+:ET

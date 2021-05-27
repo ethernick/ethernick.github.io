@@ -1,86 +1,39 @@
 ---
 layout: default
 ---
-<div class="post">
-  {% if page.image %}
-    <div class="featuredImage">
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
-      </div>
-  {% endif %}
-  <h1 class="postTitle">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
 
-  {{ content }}
+<article class="post detailed">
+  <h1>{{ page.title }}</h1>
 
-  {% if page.comments %}
-  <div id="disqus_thread"></div>
-  <script>
-
-  /**
-  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-  /*
-  var disqus_config = function () {
-  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-  };
-  */
-  (function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://whoisnick.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  {% endif %}
-
-  <!-- POST NAVIGATION -->
-  <div class="postNav clearfix">
-    {% if page.previous.url %}
-      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
-      {% if page.previous.image %}
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
-      {% endif %}
-    </a>
+  <div>
+    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
+    {% if page.last_modified_at %}
+    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
     {% endif %}
-    {% if page.next.url %}
-      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
-      {% if page.next.image %}
-        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+    <div class="post-tags">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
       {% endif %}
-      </a>
-    {% endif %}
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
   </div>
-</div>
+    
+  <div class="entry">
+    {{ content }}
+  </div>
 
-<form action="http://mail.ethernick.com/subscribe" method="POST" accept-charset="utf-8" style="
-    width: 100%;
-    margin: 40px auto;
-    border: 1px solid #eee;
-    background-color: #fAfAfA;
-    padding: 20px;
-">
-    <center><h4>Join my newsletter</h4></center>
-	<label for="name">Name</label>
-	<input type="text" name="name" id="name" style="width:100%;font-size:1em;">
-	<br>
-	<label for="email">Email</label>
-	<input type="email" name="email" id="email" style="width:100%;font-size:1em;"><br><div style="display:none;">
-	<label for="hp">HP</label><br>
-	<input type="text" name="hp" id="hp">
-	</div>
-	<input type="hidden" name="list" value="TOru2ylQuOs92EZ763TlB5bQ">
-	<input type="hidden" name="subform" value="yes">
-	<center><input type="submit" name="submit" id="submit" style="
-    background-color: #f90;
-    color: #fff;
-    border: 0;
-    -webkit-appearance: none;
-    font-size: 1em;
-    padding: 10px;
-    width: 200px;
-    border-radius: 6px;
-    margin: 10px auto;
-        "></center>
-</form>
+  <div>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
+  </div>
+
+  <!--<div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>-->
+
+  {% include disqus.html %}
+</article>
