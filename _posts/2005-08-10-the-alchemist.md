@@ -1,6 +1,0 @@
----
-layout: post
----
-When my friend Vanessa makes a book suggestion it’s one to follow! So far [The 
-Alchemist](https://www.amazon.ca/exec/obidos/ASIN/0062502182/qid=1123735367/sr=2-1/ref=sr_2_3_1/702-5752902-2552830) is turning out to be a very poignant and powerful fable. At the core is a message about following you “Personal 
-Legend” and the ups and downs that come along with it. I’m not done yet, so I’m not able to speak too much about it, but I’m so enthralled by it, that I had to share it with the world.

@@ -1,9 +1,0 @@
----
-layout: post
-title: Work to Live
----
-I guess I’ve had enough time to follow the dreams, and now it’s time to set them aside and focus on getting a job. I was hoping to have my dream website done so that I could make “billions” of dollars. But I guess that I’m just going to have to wait on that. The dream isn’t dead, but it’s just not going to be moving along as quickly as it could. Resumes are flying out the door today. Temp services have been called and I’m now active, waiting for someone in the work world not to come in today, or call in sick for tomorrow from some reason or another. I’m following the smell of job’s around the town. I’m following the trail that leads me to money, for I have none.
-
-A part of me feels that this past six months have been a complete failure. I’m wondering why couldn’t I do it. What’s wrong with me? I’m stupid for thinking that I could accomplish such a task. It’s not like it’s rocket science. In my eyes it was a simple site. A simple website. It shouldn’t have been that challenging. And in a way it probably wasn’t. In a way, maybe I have. But in so many more ways, I haven’t. In the past six months I’ve learned so much. I’ve gained so many new perspectives. I’ve tried new things, looked at things differently. I’ve learned a lot about who I am, and what makes me tick. I’ve asked myself some serious questions ( not like I got all the answers but at least the question was asked ). I’ve grown. And that, in my opinion, out ways this “failure”. So in the grand scheme of things I’ve succeeded because 1) I’m not done. I’m going to keep this going. Sure it’s going to take more time, but I’m still moving forward with it. and 2) I have no regrets. I learned something about me from this whole venture. And learning something about yourself is something that you will keep the rest of your life.
-
-So, off to the pavement, with resumes, a smile and a hand shake ready. I’m off to get me a job. I need to work to live.
