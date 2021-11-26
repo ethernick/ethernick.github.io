@@ -3,8 +3,8 @@ layout: post
 title: I'm Back!
 ---
 
-<p>It didn't take me long to switch back to github pages. This time, instead of running [whoisnick.com](https://whoisnick.com) 
-it's not powering [ethernick.com](https://ethernick.com)</p>
+<p>It didn't take me long to switch back to github pages. This time, instead of running <a href="https://whoisnick.com">whoisnick.com</a> 
+it's not powering <a href="https://ethernick.com">ethernick.com</a></p>
 
 <p>Call it my anual re-re-re-review.</p>
 
